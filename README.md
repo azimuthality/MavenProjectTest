@@ -1,1 +1,1 @@
-# MavenProjectTest
+# MavenProjectTest, Работу выполнили: Азизов Асим, Заборский Глеб, Потехин Никита.
